@@ -1,6 +1,7 @@
-# Block Breaker <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+# Block Breaker 
+<img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 
-A simple 2D Block Breaker Game made with Unity.
+A simple 2D Block Breaker Game made with Unity. 
 
 
 ## Objective 
